@@ -1574,10 +1574,12 @@
         <slidelink slideid="_player.5VDZ3zRELJe" displaytext="Using Concur" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5VDZ3zRELJe.5ckvL0dioTr" displaytext="Main Menu" expand="false" type="slide" />
+            <slidelink slideid="_player.5VDZ3zRELJe.5r6vwICEWPE" displaytext="Creating new report" expand="false" type="slide" />
             <slidelink slideid="_player.5VDZ3zRELJe.6rGFp3TQ9Bh" displaytext="How to open Concur" expand="false" type="slide" />
             <slidelink slideid="_player.5VDZ3zRELJe.5eKwd6cMY29" displaytext="How to setup your profile" expand="false" type="slide" />
           </links>
         </slidelink>
+        <slidelink slideid="" displaytext="Video Scene" expand="true" type="slide" />
       </links>
     </outline>
   </nav_data>
